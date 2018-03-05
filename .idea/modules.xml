@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lima Srikandi.iml" filepath="$PROJECT_DIR$/Lima Srikandi.iml" />
+      <module fileurl="file://D:\Sem6\RPL\TUBES\baru\Lima-Srikandi\Lima Srikandi.iml" filepath="D:\Sem6\RPL\TUBES\baru\Lima-Srikandi\Lima Srikandi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lima-Srikandi.iml" filepath="$PROJECT_DIR$/.idea/Lima-Srikandi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
